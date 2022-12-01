@@ -1,3 +1,3 @@
 {
-	"name": "Oscar Bot Multi Device "
+	"name": "Bot Multi Device "
 }
